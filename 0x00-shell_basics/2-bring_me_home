@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-cd "$home_dir"
-=======
 cd
->>>>>>> 95e81e71998b00cc43f2adb5148eadad3dc20969
