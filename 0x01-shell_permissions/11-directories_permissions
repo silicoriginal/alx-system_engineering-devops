@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d ! -perm -u=x -exec chmod +x {} \;
+chmod -R ugo+X
